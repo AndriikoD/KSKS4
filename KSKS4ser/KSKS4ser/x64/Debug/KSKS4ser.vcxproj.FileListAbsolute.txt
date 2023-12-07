@@ -1,0 +1,2 @@
+C:\LR4\KSKS4ser\KSKS4ser\x64\Debug\KSKS4ser.vcxproj.AssemblyReference.cache
+C:\LR4\KSKS4ser\KSKS4ser\x64\Debug\KSKS4ser.vcxproj.SuggestedBindingRedirects.cache
